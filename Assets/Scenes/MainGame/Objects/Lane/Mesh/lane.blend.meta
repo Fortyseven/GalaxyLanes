@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 682dc9ebb0758cd49b08da499a024b08
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Gutter
+    100006: Gutter_001
+    100008: Cube_001
+    100010: Cylinder
+    100012: Sep2
+    100014: Floor
+    100016: Cone
+    100018: Back_Wall
+    100020: Back_Wall_001
+    100022: Back_Wall_002
+    100024: Back_Side_L
+    100026: Back_Side_R
+    100028: Cube_002
+    100030: BarrierL
+    100032: BarrierR
+    100034: Pin_Bin
+    400000: //RootNode
+    400002: Cube
+    400004: Gutter
+    400006: Gutter_001
+    400008: Cube_001
+    400010: Cylinder
+    400012: Sep2
+    400014: Floor
+    400016: Cone
+    400018: Back_Wall
+    400020: Back_Wall_001
+    400022: Back_Wall_002
+    400024: Back_Side_L
+    400026: Back_Side_R
+    400028: Cube_002
+    400030: BarrierL
+    400032: BarrierR
+    400034: Pin_Bin
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Gutter
+    2300006: Gutter_001
+    2300008: Cube_001
+    2300010: Cylinder
+    2300012: Sep2
+    2300014: Floor
+    2300016: Cone
+    2300018: Back_Wall
+    2300020: Back_Wall_001
+    2300022: Back_Wall_002
+    2300024: Back_Side_L
+    2300026: Back_Side_R
+    2300028: Cube_002
+    2300030: BarrierL
+    2300032: BarrierR
+    2300034: Pin_Bin
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Gutter
+    3300006: Gutter_001
+    3300008: Cube_001
+    3300010: Cylinder
+    3300012: Sep2
+    3300014: Floor
+    3300016: Cone
+    3300018: Back_Wall
+    3300020: Back_Wall_001
+    3300022: Back_Wall_002
+    3300024: Back_Side_L
+    3300026: Back_Side_R
+    3300028: Cube_002
+    3300030: BarrierL
+    3300032: BarrierR
+    3300034: Pin_Bin
+    4300000: Cube
+    4300002: Gutter_001
+    4300004: Gutter
+    4300006: Cylinder
+    4300008: Cube_001
+    4300010: Sep2
+    4300012: Floor
+    4300014: Cone
+    4300016: Back_Wall_002
+    4300018: Back_Wall_001
+    4300020: Back_Wall
+    4300022: Back_Side_L
+    4300024: Back_Side_R
+    4300026: Cube_002
+    4300028: Pin_Bin
+    4300030: BarrierL
+    4300032: BarrierR
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
