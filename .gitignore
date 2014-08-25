@@ -17,3 +17,6 @@ Temp
 *.csproj
 *.pidb
 *.sln
+30-GalaxyLanes.userprefs
+ProjectSettings/
+_Dist/
