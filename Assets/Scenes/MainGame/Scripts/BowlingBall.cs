@@ -32,9 +32,13 @@ public class BowlingBall : MonoBehaviour
 
     public void Launch(float angle, float power)
     {
+        //angle = 0; 
+        //power = 350.0f;
+
+        power = power * 0.5f;
         Debug.Log("Launched at angle " + angle + ", power " + power);
         Vector3 force = Vector3.forward * power;//250.0f;
-        force.x += angle;
+        force.x += angle*2;
         rigidbody.AddForce( force );
         rigidbody.AddTorque( Vector3.right * 100.0f );
     }

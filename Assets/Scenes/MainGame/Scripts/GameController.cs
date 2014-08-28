@@ -33,6 +33,8 @@ public class GameController : MonoBehaviour
 
     GameState _current_state;
 
+    bool _ready;
+
     void Awake()
     {
         GameController.instance = this;
@@ -41,6 +43,7 @@ public class GameController : MonoBehaviour
     /******************************************************/
     void Start()
     {
+        _ready = false;
         _bowling_ball = BowlingBall.GetComponent<BowlingBall>();
         _bowling_ball.Reset();
 
@@ -58,12 +61,15 @@ public class GameController : MonoBehaviour
     {
         while(!UIManager.instance.Ready) {yield return 0;}
         SetState( _state_getangle );
+        _ready = true;
         yield return 0;
     }
 
     /******************************************************/
     void Update()
     {
+        if (!_ready) return;
+
         if (_current_state != null)
             _current_state.Update();
     }
@@ -80,6 +86,8 @@ public class GameController : MonoBehaviour
     /******************************************************/
     void OnGUI()
     {
+        if (!_ready) return;
+
         GUI.TextArea( new Rect( 0, 0, 100, 100 ), 
             "FRAME: " + _cur_frame + "\n" +
             "THROW: " + _cur_throw + "\n"

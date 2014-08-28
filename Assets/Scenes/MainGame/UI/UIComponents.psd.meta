@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 73bedf0d60db6104fab498e4cfd9d286
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slider Throw UI
+    21300002: UI_Cursor
+    21300004: UI_Power_Meter
+    21300006: UI_Directional
+    21300008: UI_PowerMeter
+    21300010: UI_Pin_7
+    21300012: UI_Pin_8
+    21300014: UI_Pin_9
+    21300016: UI_Pin_10
+    21300018: UI_Pin_4
+    21300020: UI_Pin_5
+    21300022: UI_Pin_6
+    21300024: UI_Pin_2
+    21300026: UI_Pin_3
+    21300028: UI_Pin_1
+    21300030: UI_PinDown_7
+    21300032: UI_PinDown_8
+    21300034: UI_PinDown_9
+    21300036: UI_PinDown_10
+    21300038: UI_PinDown_4
+    21300040: UI_PinDown_5
+    21300042: UI_PinDown_6
+    21300044: UI_PinDown_2
+    21300046: UI_PinDown_3
+    21300048: UI_PinDown_1
+    21300050: UI_Panel
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_Cursor
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 933
+        width: 18
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PowerMeter
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 859
+        width: 529
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Directional
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 779
+        width: 530
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 624
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 624
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 624
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 624
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 393
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 393
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Pin_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 277
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 346
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_8
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 346
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 346
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 346
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 305
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 305
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 305
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 264
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 264
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_PinDown_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 224
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_Panel
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 401
+        width: 462
+        height: 623
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
